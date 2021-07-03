@@ -1,0 +1,13 @@
+The principles of effective design also had to be brought up to date.
+
+Human-centered design (HCD) has emerged since the first edition, partially inspired by that book. 
+
+This current edition has an entire chapter devoted to the HCD process of product development. 
+
+The first edition of the book focused upon making products understandable and usable. 
+
+The total experience of a product covers much more than its usability: aesthetics, pleasure, and fun play critically important roles. 
+
+There was no discussion of pleasure, enjoyment, or emotion. Emotion is so important that I wrote an entire book, Emotional Design, about the role it plays in design. 
+
+These issues are also now included here
